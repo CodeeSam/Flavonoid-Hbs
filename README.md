@@ -1,4 +1,4 @@
-# Flavonoid-inspired generative design and SBDD candidate library for haemoglobin modulation
+# Flavonoid-inspired generative design of SBDD candidate library for haemoglobin modulation
 
 This repository contains the **frozen data, model checkpoint, source notebooks, generated molecular library, and reproducibility utilities** supporting the manuscript:
 
