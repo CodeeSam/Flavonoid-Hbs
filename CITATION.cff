@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the associated manuscript.
+title: Flavonoid-inspired generative design and SBDD candidate library for haemoglobin
+  modulation
+type: software
+version: 1.0.2
+date-released: '2026-10-23'
+authors:
+- family-names: Oni
+  given-names: Samson Ayorinde
+  orcid: https://orcid.org/0009-0000-8826-4905
+- family-names: Tahir
+  given-names: Albashir
+- family-names: Osoro
+  given-names: Eric Kibagendi
+- family-names: Oyemomi
+  given-names: Moyege Daniel
+preferred-citation:
+  type: article
+  title: Structure-Based Prioritization of De Novo Flavonoid-Inspired Candidate Haemoglobin
+    S Modulators Using Generative Molecular Design
+  authors:
+  - family-names: Oni
+    given-names: Samson Ayorinde
+  - family-names: Tahir
+    given-names: Albashir
+  - family-names: Osoro
+    given-names: Eric Kibagendi
+  - family-names: Oyemomi
+    given-names: Moyege Daniel

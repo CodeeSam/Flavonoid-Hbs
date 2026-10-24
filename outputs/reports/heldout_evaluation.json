@@ -1,0 +1,35 @@
+{
+  "checkpoint_epoch": 25,
+  "checkpoint_sha256": "2d190c4f92912473e952262dad7a7969403a1953decd5a501794367348127ef5",
+  "backend": "numpy",
+  "tokenizer": "original_training_regex_with_legacy_empty_matches",
+  "tokenizer_pattern": "(\\[[^\\[\\]]{1,10}\\]|Br|Cl|Si|Se|@@?|%\\d{2}|[B-IK-Za-ik-z]|\\d|\\(|\\)|\\.|=|#|-|\\+|\\\\\\\\|/|:|~|@|\\\\?|>|\\*)",
+  "vocab_size": 41,
+  "checkpoint_validation_loss": 0.5519355336825053,
+  "averaging": "mean_of_batch_padding_masked_token_mean_losses",
+  "validation": {
+    "molecules": 188,
+    "batch_losses": [
+      0.4957047973395887,
+      0.569634511956658,
+      0.5904672688295679
+    ],
+    "cross_entropy": 0.5519355260419382,
+    "perplexity": 1.7366110229255347
+  },
+  "test": {
+    "molecules": 148,
+    "batch_losses": [
+      0.5346046660068261,
+      0.343855146214795,
+      0.504139824906278
+    ],
+    "cross_entropy": 0.46086654570929975,
+    "perplexity": 1.5854472524229586
+  },
+  "training_sequence_coverage": {
+    "total": 8118,
+    "max_encoded_length": 128,
+    "truncated_sequences": 31
+  }
+}

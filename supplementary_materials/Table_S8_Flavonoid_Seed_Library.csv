@@ -1,0 +1,31 @@
+#,Compound_Name,Subclass,Role,Canonical_SMILES,MW_Da,HBD,HBA,LogP,QED
+1,quercetin,Flavonol,Seed library,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,302.24,5,7,1.99,0.434
+2,kaempferol,Flavonol,Seed library,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,286.24,4,6,2.28,0.546
+3,apigenin,Flavone,Seed library,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,270.24,3,5,2.58,0.632
+4,luteolin,Flavone,Seed library,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,286.24,4,6,2.28,0.511
+5,chrysin,Flavone,Seed library,O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12,254.24,2,4,2.87,0.7
+6,galangin,Flavonol,Seed library,O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12,270.24,3,5,2.58,0.632
+7,naringenin,Flavanone,Seed library,O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21,272.26,3,5,2.51,0.742
+8,hesperetin,Flavanone,Seed library,COc1cc(O)c(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,318.28,4,7,2.22,0.627
+9,eriodictyol,Flavanone,Seed library,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,288.26,4,6,2.22,0.599
+10,taxifolin,Flavanonol,Seed library,O=C1c2c(O)cc(O)cc2OC(c2ccc(O)c(O)c2)C1O,304.25,5,7,1.19,0.501
+11,genistein,Isoflavone,Seed library,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,270.24,3,5,2.58,0.632
+12,daidzein,Isoflavone,Seed library,O=c1c(-c2ccc(O)cc2)coc2ccc(O)cc12,254.24,2,4,2.87,0.7
+13,biochanin A,Isoflavone,Seed library,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1,284.27,2,5,2.88,0.756
+14,formononetin,Isoflavone,Seed library,COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1,268.27,1,4,3.17,0.775
+15,catechin,Flavan-3-ol,Seed library,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C2O,276.24,5,6,1.68,0.507
+16,epicatechin,Flavan-3-ol,Seed library,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C2O,276.24,5,6,1.68,0.507
+17,fisetin,Flavonol,Seed library,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12,286.24,4,6,2.28,0.511
+18,morin,Flavonol,Seed library,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,318.24,6,8,1.69,0.371
+19,myricetin,Flavonol,Seed library,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,318.24,6,8,1.69,0.371
+20,rutin aglycone (quercetin),Flavonol,Seed library,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,302.24,5,7,1.99,0.434
+21,baicalein,Flavone,Seed library,O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12,270.24,3,5,2.58,0.591
+22,wogonin,Flavone,Seed library,COc1c(O)cc2oc(-c3ccccc3)cc(=O)c2c1O,284.27,2,5,2.88,0.756
+23,pinocembrin,Flavanone,Seed library,O=C1CC(c2ccccc2)Oc2cc(O)cc(O)c21,256.26,2,4,2.8,0.823
+24,alpinetin,Flavanone,Seed library,COc1cc2oc(-c3ccccc3)cc(=O)c2cc1O,268.27,1,4,3.17,0.775
+25,sakuranetin,Flavanone,Seed library,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1,286.28,2,5,2.81,0.887
+26,liquiritigenin,Flavanone,Seed library,O=C1CC(c2ccc(O)cc2)Oc2cc(O)ccc21,256.26,2,4,2.8,0.823
+27,isoliquiritigenin,Chalcone,Seed library,O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1,240.26,2,3,2.99,0.64
+28,butein,Chalcone,Seed library,O=C(/C=C/c1ccc(O)cc1)c1cc(O)cc(O)c1O,272.26,4,5,2.41,0.298
+29,phloretin,Dihydrochalcone,Seed library,O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O,274.27,4,5,2.32,0.641
+30,xanthohumol,Chalcone,Seed library,COc1cc(O)c(CC=C(C)C)c(O)c1C(=O)/C=C/c1ccc(O)cc1,354.4,3,5,4.22,0.411

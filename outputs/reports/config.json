@@ -1,0 +1,47 @@
+{
+  "PROJECT": "flavonoid_gpt_hbs_candidates",
+  "ROOT": "/kaggle/working/flavonoid_gpt_hbs_candidates",
+  "USER_DATA_DIR": "/kaggle/input",
+  "MIN_HEAVY_ATOMS": 10,
+  "MAX_HEAVY_ATOMS": 80,
+  "MAX_SALTS": 1,
+  "TRAIN_VAL_TEST": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "AUGMENT_RANDOM_SMILES": true,
+  "N_AUG_PER_MOL": 5,
+  "BLOCK_SIZE": 128,
+  "BATCH_SIZE": 64,
+  "EPOCHS": 25,
+  "LR": 0.0003,
+  "EMBED_DIM": 256,
+  "N_HEAD": 8,
+  "N_LAYER": 6,
+  "DROPOUT": 0.1,
+  "GRAD_CLIP": 1.0,
+  "EARLY_STOPPING_PATIENCE": 5,
+  "N_TO_GENERATE": 30000,
+  "GEN_BATCH_SIZE": 256,
+  "TEMPERATURE": 0.8,
+  "TOP_K": 50,
+  "TOP_P": 0.95,
+  "MAX_GEN_LEN": 120,
+  "QED_MIN": 0.5,
+  "SA_MAX": 6.0,
+  "ALLOW_PAINS": false,
+  "ALLOW_BRENK": false,
+  "LIPINSKI_MAX_VIOLATIONS": 1,
+  "MW_RANGE": [
+    150,
+    650
+  ],
+  "LOGP_RANGE": [
+    -1.5,
+    6.0
+  ],
+  "TPSA_MAX": 180,
+  "ROT_BONDS_MAX": 12,
+  "TOP_N_EXPORT": null
+}

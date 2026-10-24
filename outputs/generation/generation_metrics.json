@@ -1,0 +1,9 @@
+{
+  "n_generated": 30000,
+  "n_valid": 21715,
+  "n_unique_valid": 12436,
+  "n_novel_unique_valid": 12136,
+  "validity": 0.7238333333333333,
+  "uniqueness_among_valid": 0.5726916877734285,
+  "novelty_among_unique_valid": 0.975876487616597
+}

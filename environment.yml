@@ -1,0 +1,22 @@
+name: flavonoid_hbs_sbdd
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - pytorch
+  - rdkit
+  - tqdm
+  - openpyxl
+  - requests
+  - pillow
+  - pip
+  - pip:
+      - pubchempy
+      - chembl_webresource_client
+      - cairosvg

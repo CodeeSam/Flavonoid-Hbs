@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+rdkit
+tqdm
+scipy
+openpyxl
+pubchempy
+chembl_webresource_client
+requests
+cairosvg
+pillow

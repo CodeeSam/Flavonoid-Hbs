@@ -1,0 +1,16 @@
+{
+  "generated_requested": 30000,
+  "generated_valid": 21715,
+  "generated_unique_valid": 12436,
+  "generated_exact_novel_vs_complete_curated_reference": 12136,
+  "passed_all_filters_exported": 2371,
+  "sdf_molecules_written": 2371,
+  "export_policy": "all_passed_no_ranking_no_top_n_truncation",
+  "candidate_library_files": {
+    "csv": "sbdd_candidates/final_candidates_for_sbdd_all_passed.csv",
+    "xlsx": "sbdd_candidates/final_candidates_for_sbdd_all_passed.xlsx",
+    "smi": "sbdd_candidates/final_candidates_for_sbdd_all_passed.smi",
+    "sdf": "sbdd_candidates/final_candidates_for_sbdd_all_passed.sdf"
+  },
+  "note": "Candidate IDs and molecular records are preserved from the frozen paper-run export."
+}
