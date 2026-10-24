@@ -15,7 +15,6 @@ notebooks/            Main generation/filtering notebook + held-out test evaluat
 outputs/              figures, filtered candidates, generation, reports and scaffold outputs
 sbdd_candidates/       Complete 2,371-compound candidate library (CSV/XLSX/SMI/SDF)
 supplementary materials/ supplementary tables 1-13
-downstream_results/    Machine-readable reported docking, PLIP and ADMET tables
 ```
 
 ## Quick start
