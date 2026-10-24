@@ -6,19 +6,6 @@ This repository contains the **frozen data, model checkpoint, source notebooks, 
 
 The generative model is a compact decoder-only SMILES transformer used **upstream as a focused molecule-supply tool**.
 
-## What is reproducible here
-
-The repository supports reproduction and audit of the open generative/medicinal-chemistry portion of the study:
-
-- molecular corpus and scaffold-aware train/validation/test partitions;
-- randomized-SMILES training set;
-- tokenizer and trained checkpoint;
-- training history and archived run configuration;
-- scaffold-held-out test loss/perplexity evaluation;
-- 30,000 generated SMILES and generation-quality metrics;
-- medicinal-chemistry filtering and scaffold/chemical-space summaries; and
-- the full **2,371-molecule SBDD-ready candidate library** supplied to the downstream structure-based workflow.
-
 ## Repository layout
 
 ```text
